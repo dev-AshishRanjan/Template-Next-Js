@@ -1,0 +1,27 @@
+[
+  {
+    "name": "linkedin",
+    "link": "https://www.linkedin.com/in/...",
+    "type": "skill-icons"
+  },
+  {
+    "name": "instagram",
+    "link": "https://www.instagram.com/...",
+    "type": "skill-icons"
+  },
+  {
+    "name": "facebook",
+    "link": "https://www.facebook.com/...",
+    "type": "devicon"
+  },
+  {
+    "name": "github",
+    "link": "https://github.com/...",
+    "type": "cib"
+  },
+  {
+    "name": "hashnode",
+    "link": "https://techjourneyer.hashnode.dev/",
+    "type": "cib"
+  }
+]
