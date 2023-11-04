@@ -1,28 +1,27 @@
-![Ashish-Portfolio](https://socialify.git.ci/dev-AshishRanjan/Ashish-Portfolio/image?description=1&descriptionEditable=A%20place%20for%20Developers&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
+![Template-Next-Js](https://socialify.git.ci/dev-AshishRanjan/Template-Next-Js/image?description=1&descriptionEditable=A%20place%20for%20Developers&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
 
 <div align="center">
  <p>
    
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=dev-AshishRanjan%2FAshish-Portfolio%20&countColor=%23263759&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/dev-AshishRanjan/Ashish-Portfolio)
-![GitHub Repo stars](https://img.shields.io/github/stars/dev-AshishRanjan/Ashish-Portfolio)
-![GitHub contributors](https://img.shields.io/github/contributors/dev-AshishRanjan/Ashish-Portfolio)
-![GitHub last commit](https://img.shields.io/github/last-commit/dev-AshishRanjan/Ashish-Portfolio)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=dev-AshishRanjan%2FTemplate-Next-Js%20&countColor=%23263759&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/dev-AshishRanjan/Template-Next-Js)
+![GitHub Repo stars](https://img.shields.io/github/stars/dev-AshishRanjan/Template-Next-Js)
+![GitHub contributors](https://img.shields.io/github/contributors/dev-AshishRanjan/Template-Next-Js)
+![GitHub last commit](https://img.shields.io/github/last-commit/dev-AshishRanjan/Template-Next-Js)
   
-![GitHub repo size](https://img.shields.io/github/repo-size/dev-AshishRanjan/Ashish-Portfolio)
+![GitHub repo size](https://img.shields.io/github/repo-size/dev-AshishRanjan/Template-Next-Js)
 
-![Github](https://img.shields.io/github/license/dev-AshishRanjan/Ashish-Portfolio)
-![GitHub issues](https://img.shields.io/github/issues/dev-AshishRanjan/Ashish-Portfolio)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/dev-AshishRanjan/Ashish-Portfolio)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/dev-AshishRanjan/Ashish-Portfolio)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/dev-AshishRanjan/Ashish-Portfolio)
+![Github](https://img.shields.io/github/license/dev-AshishRanjan/Template-Next-Js)
+![GitHub issues](https://img.shields.io/github/issues/dev-AshishRanjan/Template-Next-Js)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/dev-AshishRanjan/Template-Next-Js)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/dev-AshishRanjan/Template-Next-Js)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/dev-AshishRanjan/Template-Next-Js)
 
  </p>
 </div>
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Tech stack
 
